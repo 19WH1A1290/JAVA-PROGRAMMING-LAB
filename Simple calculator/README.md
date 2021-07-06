@@ -1,1 +1,3 @@
-
+2. Write a Java program that works as a simple calculator. Use a grid layout to arrange buttons for the
+digits and for the +, -,*, % operations. Add a text field to display the result. Handle any possible
+exceptions like divided by zero.
